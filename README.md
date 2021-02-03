@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### Profile Visits 
+<!-- #### Profile Visits 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=simatei.simatei)
+-->
