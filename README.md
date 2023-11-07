@@ -1,4 +1,4 @@
-### Hi there I am Robert, Software Engineer. A software engineer based in Nairobi, Kenya 👋
+### Hi there I am Robert. A Software Engineer based in Nairobi, Kenya 👋
 
 <!--
 **simatei/simatei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
