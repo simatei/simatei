@@ -1,4 +1,5 @@
 ### Hi there I am Robert. A Software Engineer based in Nairobi, Kenya 👋
+<center>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simatei&theme=github-dark&hide_border=true" alt="simatei"/></p>
   
@@ -9,7 +10,7 @@
 - 🌱 I’m currently learning ... AWS, Rust
 - 👯 I’m looking to collaborate on ... something challenging, a real head scratcher
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... simatei.co.ke
+- 📫 How to reach me: ... https://simatei.co.ke
   
 
 
