@@ -1,16 +1,28 @@
-### Hi there I am Robert. A Software Engineer based in Nairobi, Kenya 👋
-<center>
+# Hi there, I'm Simatei 👋
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simatei&theme=github-dark&hide_border=true" alt="simatei"/></p>
-  
-  ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=simatei&theme=github&hide_border=true&bg_color=0d1117&area_color=1f6fea&line=38d252&point=1f6fea&color=fefefe)
-</center>
+I'm a passionate software developer with a knack for creating efficient and scalable solutions. I love exploring new technologies and continuously improving my skills. Here's a bit about me:
 
-- 🔭 I’m currently working on ... Fintech, E-commerce, DevSecOps and Automation
-- 🌱 I’m currently learning ... AWS, Rust
-- 👯 I’m looking to collaborate on ... something challenging, a real head scratcher
-- 💬 Ask me about ... Anything
-- 📫 How to reach me: ... https://simatei.co.ke
-  
+- 🔭 I’m currently working on several exciting projects, including web applications, microservices, and cloud-based solutions.
+- 🌱 I’m continuously learning and expanding my knowledge in areas like artificial intelligence, machine learning, and DevOps.
+- 👯 I’m looking to collaborate on open-source projects and innovative ideas that make a difference.
+- 🤔 I’m always open to discussing new opportunities and challenges in the tech world.
+- 💬 Ask me about anything related to web development, cloud computing, or software engineering.
+- 📫 How to reach me: [Email](mailto:simateir@gmail.com) | [LinkedIn](https://www.linkedin.com/in/robertkimutai) | [X](https://x.com/simatei) 
+- ⚡ Fun fact: I enjoy hiking, reading sci-fi novels, and playing chess in my free time.
+
+## Skills and Technologies
+- **Languages:** JavaScript, Python, , Ruby, Java, Go
+- **Frameworks and Libraries:** Vue, React, Node.js, Django, Spring Boot
+- **Databases:** SQL, MongoDB, PostgreSQL
+- **DevOps Tools:** Docker, Kubernetes, Jenkins, AWS, Azure
+- **Other:** Git, CI/CD, TDD, Agile methodologies
+
+## My GitHub Activity
+![Simatei's GitHub stats](https://activity-graph.herokuapp.com/graph?username=simatei&theme=github&hide_border=true&bg_color=0d1117&area_color=1f6fea&line=38d252&point=1f6fea&color=fefefe)
+
+
+---
+
+Thank you for visiting my profile! 😊
 
 
