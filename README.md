@@ -1,6 +1,6 @@
 # Hi there, I'm Simatei 👋
 
-I'm a passionate software developer with a knack for creating efficient and scalable solutions. I love exploring new technologies and continuously improving my skills. Here's a bit about me:
+I'm a passionate software engineer with a knack for creating efficient and scalable solutions. I love exploring new technologies and continuously improving my skills. Here's a bit about me:
 
 - 🔭 I’m currently working on several exciting projects, including web applications, microservices, and cloud-based solutions.
 - 🌱 I’m continuously learning and expanding my knowledge in areas like artificial intelligence, machine learning, and DevOps.
@@ -16,11 +16,6 @@ I'm a passionate software developer with a knack for creating efficient and scal
 - **Databases:** SQL, MongoDB, PostgreSQL
 - **DevOps Tools:** Docker, Kubernetes, Jenkins, AWS, Azure
 - **Other:** Git, CI/CD, TDD, Agile methodologies
-
-## My GitHub Activity
-![Simatei's GitHub stats](https://activity-graph.herokuapp.com/graph?username=simatei&theme=github&hide_border=true&bg_color=0d1117&area_color=1f6fea&line=38d252&point=1f6fea&color=fefefe)
-
-
 ---
 
 Thank you for visiting my profile! 😊
