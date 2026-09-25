@@ -7,7 +7,7 @@ I'm a passionate software engineer with a knack for creating efficient and scala
 - 👯 I’m looking to collaborate on open-source projects and innovative ideas that make a difference.
 - 🤔 I’m always open to discussing new opportunities and challenges in the tech world.
 - 💬 Ask me about anything related to web development, cloud computing, or software engineering.
-- 📫 How to reach me: [Email](mailto:simateir@gmail.com) | [LinkedIn](https://www.linkedin.com/in/robertkimutai) | [X](https://x.com/rob_simatei) 
+- 📫 How to reach me: [Email](mailto:simateir@gmail.com) | [LinkedIn](https://www.linkedin.com/in/robertkimutai) | [X](https://x.com/rob_simatei) | [Website](https://simatei.co.ke) 
 - ⚡ Fun fact: I enjoy hiking, reading sci-fi novels, and playing chess in my free time.
 
 ## Skills and Technologies
